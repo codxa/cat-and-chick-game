@@ -1,5 +1,8 @@
-test
+Merhabalar 
 
+üniversitede bir dersimin final projesi için yaptım, güzel tatlı bir oyun. Oynun amacı kedi ve farklı tuzaklardan kaçarak 5 farklı yumurtayı bulmanız gerekir.
+
+yardım alıdğım kanalın youtube hesabı: SkinnyDev
 
 
 
